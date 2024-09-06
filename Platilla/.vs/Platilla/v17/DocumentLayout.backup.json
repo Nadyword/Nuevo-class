@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\examples\\Navbars\\DashboardNavbar\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\examples\\Navbars\\DashboardNavbar\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\context\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\context\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\dashboard\\components\\Projects\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layouts\\dashboard\\components\\Projects\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\rtl\\components\\Projects\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layouts\\rtl\\components\\Projects\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\tables\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layouts\\tables\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\dashboard\\components\\WelcomeMark\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layouts\\dashboard\\components\\WelcomeMark\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\dashboard\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layouts\\dashboard\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\examples\\Navbars\\DashboardNavbar\\index.js",
+              "RelativeDocumentMoniker": "src\\examples\\Navbars\\DashboardNavbar\\index.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\examples\\Navbars\\DashboardNavbar\\index.js",
+              "RelativeToolTip": "src\\examples\\Navbars\\DashboardNavbar\\index.js",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwE8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T01:20:48.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "routes.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\routes.js",
+              "RelativeDocumentMoniker": "src\\routes.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\routes.js",
+              "RelativeToolTip": "src\\routes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T16:35:00.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-04T16:34:56.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\tables\\index.js",
+              "RelativeDocumentMoniker": "src\\layouts\\tables\\index.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\tables\\index.js",
+              "RelativeToolTip": "src\\layouts\\tables\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T16:34:50.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\rtl\\components\\Projects\\index.js",
+              "RelativeDocumentMoniker": "src\\layouts\\rtl\\components\\Projects\\index.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\rtl\\components\\Projects\\index.js",
+              "RelativeToolTip": "src\\layouts\\rtl\\components\\Projects\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T16:34:47.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\dashboard\\components\\Projects\\index.js",
+              "RelativeDocumentMoniker": "src\\layouts\\dashboard\\components\\Projects\\index.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\dashboard\\components\\Projects\\index.js",
+              "RelativeToolTip": "src\\layouts\\dashboard\\components\\Projects\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T16:34:45.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\context\\index.js",
+              "RelativeDocumentMoniker": "src\\context\\index.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\context\\index.js",
+              "RelativeToolTip": "src\\context\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T16:31:09.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T16:30:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AgIAAAgAAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T16:30:25.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\dashboard\\components\\WelcomeMark\\index.js",
+              "RelativeDocumentMoniker": "src\\layouts\\dashboard\\components\\WelcomeMark\\index.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\dashboard\\components\\WelcomeMark\\index.js",
+              "RelativeToolTip": "src\\layouts\\dashboard\\components\\WelcomeMark\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T13:30:23.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\dashboard\\index.js",
+              "RelativeDocumentMoniker": "src\\layouts\\dashboard\\index.js",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Platilla\\src\\layouts\\dashboard\\index.js",
+              "RelativeToolTip": "src\\layouts\\dashboard\\index.js",
+              "ViewState": "AgIAADIAAAAAAAAAAAAtwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T01:08:17.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

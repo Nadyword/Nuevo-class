@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\ApiClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\samue\\onedrive\\documentos\\proyectos\\nuevaclassroom\\apiclass\\apiclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\samue\\onedrive\\documentos\\proyectos\\nuevaclassroom\\apiclass\\apiclass\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\samue\\onedrive\\documentos\\proyectos\\nuevaclassroom\\apiclass\\apiclass\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\samue\\onedrive\\documentos\\proyectos\\nuevaclassroom\\apiclass\\apiclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\ApiClass\\ApiClass\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ApiClass\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\ApiClass\\ApiClass\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ApiClass\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAD4vzIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:53:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\ApiClass\\ApiClass\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiClass\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\ApiClass\\ApiClass\\appsettings.Development.json",
+              "RelativeToolTip": "ApiClass\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T00:20:32.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\ApiClass\\ApiClass\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiClass\\appsettings.json",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\ApiClass\\ApiClass\\appsettings.json",
+              "RelativeToolTip": "ApiClass\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T00:20:31.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\ApiClass\\ApiClass\\Program.cs",
+              "RelativeDocumentMoniker": "ApiClass\\Program.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\ApiClass\\ApiClass\\Program.cs",
+              "RelativeToolTip": "ApiClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:20:13.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
