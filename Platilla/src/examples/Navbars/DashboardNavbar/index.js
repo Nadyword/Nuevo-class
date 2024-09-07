@@ -26,6 +26,7 @@ import {
 } from "context";
 import team2 from "assets/images/team-2.jpg";
 import logoSpotify from "assets/images/small-logos/logo-spotify.svg";
+import { handleKeyPress } from "services/estudiantes.services";
 
 function DashboardNavbar({ absolute, light, isMini }) {
     const [navbarType, setNavbarType] = useState();
@@ -61,30 +62,7 @@ function DashboardNavbar({ absolute, light, isMini }) {
         setInputValue(event.target.value);
     };
 
-    const handleKeyPress = async (event) => {
-        if (event.key === "Enter") {
-            try {
-                const myHeaders = new Headers();
-                myHeaders.append("Content-Type", "application/json");
 
-                const raw = JSON.stringify(inputValue);
-
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: raw,
-                    redirect: "follow"
-                };
-
-                fetch("https://localhost:7044/WeatherForecast", requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            } catch (error) {
-                console.error(error);
-            }
-        }
-    };
 
     const renderMenu = () => (
         <Menu
