@@ -1,7 +1,3 @@
-using ApiClass.Interfaces;
-using ApiClass.Repositories;
-using ApiClass.Services;
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
@@ -14,13 +10,8 @@ builder.Services.AddCors(options =>
         builder.WithOrigins("http://localhost:3000")
         .WithMethods(["GET"]).
         AllowAnyHeader();
-        //builder.SetIsOriginAllowed(origen => new Uri(origen).Host == "localhost");
     });
 });
-
-builder.Services.AddScoped<IStudentService, StudentService>();
-builder.Services.AddScoped<IStudentRepository, StudentRepository>();
-
 
 
 var app = builder.Build();

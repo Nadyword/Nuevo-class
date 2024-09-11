@@ -27,12 +27,11 @@ import {
 import team2 from "assets/images/team-2.jpg";
 import logoSpotify from "assets/images/small-logos/logo-spotify.svg";
 
-function DashboardNavbar({ absolute, light, isMini }) {
+function DashboardNavbar({ absolute, light, isMini, inputValue, setInputValue }) {
     const [navbarType, setNavbarType] = useState();
     const [controller, dispatch] = useVisionUIController();
     const { miniSidenav, transparentNavbar, fixedNavbar, openConfigurator } = controller;
     const [openMenu, setOpenMenu] = useState(false);
-    const [inputValue, setInputValue] = useState("");
     const route = useLocation().pathname.split("/").slice(1);
 
     useEffect(() => {
@@ -59,31 +58,6 @@ function DashboardNavbar({ absolute, light, isMini }) {
 
     const handleInputChange = (event) => {
         setInputValue(event.target.value);
-    };
-
-    const handleKeyPress = async (event) => {
-        if (event.key === "Enter") {
-            try {
-                const myHeaders = new Headers();
-                myHeaders.append("Content-Type", "application/json");
-
-                const raw = JSON.stringify(inputValue);
-
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: raw,
-                    redirect: "follow"
-                };
-
-                fetch("https://localhost:7044/WeatherForecast", requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            } catch (error) {
-                console.error(error);
-            }
-        }
     };
 
     const renderMenu = () => (
@@ -142,7 +116,6 @@ function DashboardNavbar({ absolute, light, isMini }) {
                                 icon={{ component: "search", direction: "left" }}
                                 value={inputValue}
                                 onChange={handleInputChange}
-                                onKeyPress={handleKeyPress}
                                 sx={({ breakpoints }) => ({
                                     [breakpoints.down("sm")]: {
                                         maxWidth: "80px",

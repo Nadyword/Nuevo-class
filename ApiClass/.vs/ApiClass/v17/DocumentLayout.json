@@ -1,54 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\",
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Nuevo-class\\ApiClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\samue\\onedrive\\documentos\\proyectos\\nuevaclassroom\\nuevo-class\\apiclass\\apiclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\samue\\onedrive\\documentos\\proyectos\\nuevaclassroom\\nuevo-class\\apiclass\\apiclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\samue\\onedrive\\documentos\\proyectos\\nuevaclassroom\\nuevo-class\\apiclass\\apiclass\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\zulay\\source\\repos\\nuevo-class\\apiclass\\apiclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|c:\\users\\samue\\onedrive\\documentos\\proyectos\\nuevaclassroom\\nuevo-class\\apiclass\\apiclass\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBC2C441-09EE-42C7-8FFB-280D18D5EAA3}|ApiClass\\ApiClass.csproj|solutionrelative:apiclass\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,124 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "ApiClass\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "ApiClass\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Nuevo-class\\ApiClass\\ApiClass\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "ApiClass\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Nuevo-class\\ApiClass\\ApiClass\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "ApiClass\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T14:02:21.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentDto.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Dtos\\StudentDto.cs",
-              "RelativeDocumentMoniker": "ApiClass\\Dtos\\StudentDto.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Dtos\\StudentDto.cs",
-              "RelativeToolTip": "ApiClass\\Dtos\\StudentDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:22:09.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "ApiClass\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Services\\StudentService.cs",
-              "RelativeToolTip": "ApiClass\\Services\\StudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:19:58.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Interfaces\\IStudentService.cs",
-              "RelativeDocumentMoniker": "ApiClass\\Interfaces\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Interfaces\\IStudentService.cs",
-              "RelativeToolTip": "ApiClass\\Interfaces\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:18:11.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Repositories\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "ApiClass\\Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Repositories\\StudentRepository.cs",
-              "RelativeToolTip": "ApiClass\\Repositories\\StudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:15:55.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "ApiClass\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Models\\Student.cs",
-              "RelativeToolTip": "ApiClass\\Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:12:13.955Z",
+              "WhenOpened": "2024-09-07T02:29:15.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Interfaces\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "ApiClass\\Interfaces\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Interfaces\\IStudentRepository.cs",
-              "RelativeToolTip": "ApiClass\\Interfaces\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:11:09.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EstudiantesController.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Controllers\\EstudiantesController.cs",
-              "RelativeDocumentMoniker": "ApiClass\\Controllers\\EstudiantesController.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Controllers\\EstudiantesController.cs",
-              "RelativeToolTip": "ApiClass\\Controllers\\EstudiantesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T02:29:15.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ApiClass\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ApiClass\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T02:53:18.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Nuevo-class\\ApiClass\\ApiClass\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ApiClass\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Nuevo-class\\ApiClass\\ApiClass\\appsettings.Development.json",
               "RelativeToolTip": "ApiClass\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -183,27 +55,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Nuevo-class\\ApiClass\\ApiClass\\appsettings.json",
               "RelativeDocumentMoniker": "ApiClass\\appsettings.json",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\appsettings.json",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Nuevo-class\\ApiClass\\ApiClass\\appsettings.json",
               "RelativeToolTip": "ApiClass\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-04T00:20:31.067Z"
+              "WhenOpened": "2024-09-04T00:20:31.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Nuevo-class\\ApiClass\\ApiClass\\Program.cs",
               "RelativeDocumentMoniker": "ApiClass\\Program.cs",
-              "ToolTip": "C:\\Users\\zulay\\source\\repos\\Nuevo-class\\ApiClass\\ApiClass\\Program.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Proyectos\\NuevaClassRoom\\Nuevo-class\\ApiClass\\ApiClass\\Program.cs",
               "RelativeToolTip": "ApiClass\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T00:20:13.653Z"
+              "WhenOpened": "2024-09-04T00:20:13.653Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,41 +1,44 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient;
+using Newtonsoft.Json;
 
 namespace ApiClass.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]
+    [ApiController]                                                                                                                                                                                                                                                                                     
     public class EstudiantesController : ControllerBase
     {
-        // GET: api/<EstudiantesController>
-        [HttpGet]
-        public IEnumerable<string> Get()
+        [HttpGet(Name = "TraerEstudiante")]
+        public IActionResult EnviarTexto(string texto)
         {
-            return new string[] { "value1", "value2" };
-        }
+            string connectionString = "Data Source=DESCONOSIDO\\SAMUEL;Initial Catalog=2024-colpein;Integrated Security=True;Encrypt=False;";
+            using SqlConnection connection = new(connectionString);
+            connection.Open();
+            string query = $"SELECT * FROM alumnos WHERE cod_alum = '{texto}'";
 
-        // GET api/<EstudiantesController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+            SqlCommand command = new(query, connection);
+            SqlDataReader reader = command.ExecuteReader();
 
-        // POST api/<EstudiantesController>
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
+            if (reader.HasRows)
+            {
+                var result = new List<Dictionary<string, object>>();
+                while (reader.Read())
+                {
+                    var row = new Dictionary<string, object>();
+                    for (int i = 0; i < reader.FieldCount; i++)
+                    {
+                        row[reader.GetName(i)] = reader.GetValue(i);
+                    }
+                    result.Add(row);
+                }
 
-        // PUT api/<EstudiantesController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<EstudiantesController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+                string jsonResult = JsonConvert.SerializeObject(result);
+                return Ok(jsonResult);
+            }
+            else
+            {
+                return Ok("No se ha encontrado ningún estudiante");
+            }
         }
     }
 }

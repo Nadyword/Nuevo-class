@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\examples",
+    "\\src\\examples\\Navbars",
+    "\\src\\examples\\Navbars\\DashboardNavbar",
+    "\\src\\layouts",
+    "\\src\\layouts\\dashboard"
   ],
+  "SelectedNode": "\\src\\examples\\Navbars\\DashboardNavbar\\index.js",
   "PreviewInSolutionExplorer": false
 }

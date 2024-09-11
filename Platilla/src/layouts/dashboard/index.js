@@ -60,13 +60,17 @@ import { lineChartOptionsDashboard } from "layouts/dashboard/data/lineChartOptio
 import { barChartDataDashboard } from "layouts/dashboard/data/barChartData";
 import { barChartOptionsDashboard } from "layouts/dashboard/data/barChartOptions";
 
+import React from "react";
+
 function Dashboard() {
     const { gradients } = colors;
     const { cardContent } = gradients;
+    const [inputValue, setInputValue] = React.useState("");
+    console.log(inputValue);
 
     return (
         <DashboardLayout>
-            <DashboardNavbar />
+            <DashboardNavbar inputValue={inputValue} setInputValue={setInputValue} />
             <p></p>
             <VuiBox py={3}>
                 <VuiBox mb={3}>
